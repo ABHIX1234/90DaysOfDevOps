@@ -6,9 +6,9 @@ Instead of memorizing commands, the goal is to learn **how to think and debug li
 
 ---
 
-## 📂 Topics Covered
+## Topics Covered
 
-### 1️⃣ Linux File System Hierarchy
+### Linux File System Hierarchy
 
 Learned the purpose and usage of important Linux directories such as:
 
