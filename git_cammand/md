@@ -1,0 +1,10 @@
+
+
+git add 2026/day-08/day-08-cloud-deployment.md
+
+git status
+
+git commit -m "Add day 08 cloud deployment documentation"
+
+
+git push origin main
