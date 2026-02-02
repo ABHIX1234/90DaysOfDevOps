@@ -1,10 +1,9 @@
-
-
-git add 2026/day-08/day-08-cloud-deployment.md
-
+cd 90DaysOfDevOps
 git status
-
+git branch
+git switch main
+git add .
+git status
 git commit -m "Add day 08 cloud deployment documentation"
-
-
 git push origin main
+git
