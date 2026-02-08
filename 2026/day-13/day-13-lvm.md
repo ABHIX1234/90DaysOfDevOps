@@ -11,6 +11,13 @@ Learn how to manage storage flexibly using Linux LVM by creating, mounting, and 
 - OS: Linux (Ubuntu)
 - User: root
 - Storage: Loop device (virtual disk)
+  Today’s focus was on Linux LVM, a powerful way to manage storage dynamically.
+
+🔹 Created Physical Volumes (PV)
+🔹 Built Volume Groups (VG)
+🔹 Created and extended Logical Volumes (LV)
+🔹 Formatted & mounted volumes
+🔹 Resized filesystem without data loss
 
 ---
 
